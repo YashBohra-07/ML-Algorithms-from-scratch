@@ -1,3 +1,3 @@
-# Machine Learning Course by Andrew NG - Python Implementation 
+# Python Implementation 
 
-This repository contains python implemented solutions for all the Assignments in the Machine Learning course by Andrew NG. 
+This repository contains python implemented codes for some poopular Machine Learning Algorithms.(Adding more soon)
